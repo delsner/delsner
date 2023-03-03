@@ -4,7 +4,7 @@
 
 💻 I mostly code in Java, C++, TypeScript, Python, and Go and I'm currently leveling up my C++ and Go game 🎮
 
-🏗️ I enjoy engineering solutions for full-stack problems from frontend 🪄 to production deployment 🚢
+🏗️ I enjoy to engineer solutions for full-stack problems from frontend 🪄 to production deployment 🚢
 
 💬 Ask me about program analysis and regression testing in multi-language software (story of my PhD...)
 
